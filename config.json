@@ -23,7 +23,7 @@
     "games": [
       {
         "name": "Pacman",
-        "url": "res/pacman.html",
+        "url": "/pacman.html",
         "width": "550",
         "height": "500"
       }
